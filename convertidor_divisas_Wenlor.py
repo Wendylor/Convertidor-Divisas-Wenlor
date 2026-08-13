@@ -9,6 +9,7 @@ valor_yuanes = 484.44
 valor_mexicano = 187.84
 
 print("Bienvenido y Bienvenida a Wenlor, convertidor de divisas de pesos colombianos a las siguentes divisas: Dolares,Yuanes,Euros y pesos Mexicanos")
+print("♡ ☆ ♡ ☆ ♡ ☆ ♡ ☆ ♡ ☆ ♡ ☆ ♡ ☆ ♡ ☆ ♡ ☆ ♡ ☆ ♡ ☆ ♡ ☆ ♡ ☆ ♡ ☆ ♡ ☆ ♡ ☆ ♡ ☆ ♡ ☆ ♡ ☆ ♡ ☆ ♡ ☆ ♡ ☆ ♡ ☆ ♡ ☆ ♡ ☆ ♡ ☆ ♡ ☆ ♡ ☆ ♡ ☆ ♡ ☆")
 print("ingrese su nombre")
 nombre = input()
 
