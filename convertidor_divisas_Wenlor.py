@@ -30,5 +30,5 @@ print(pesos / valor_mexicano, "pesos mexicanos")
 
 #tenemos el resultado de divisas que el usuario desea cambiar, entonces le agradecemos por probar nuestro programa
 
-print("Gracias por usar nuestro convertidor de divisas")
+print("♡ ☆ ♡ Gracias por usar nuestro convertidor de divisas, Wenlor ♡ ☆ ♡")
 print("Si desea volver a tener un resultado diferente, solamente cambie el valor a ingresar de pesos colombianos")
